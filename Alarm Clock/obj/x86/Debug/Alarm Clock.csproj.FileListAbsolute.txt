@@ -1,0 +1,32 @@
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Form1.resources
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Properties.Resources.resources
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.exe
+c:\users\valency\documents\visual studio 2010\Projects\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.pdb
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.exe
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.pdb
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Form1.resources
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Valency\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.exe
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.pdb
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Interop.WMLSS.dll
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Interop.WMPDXMLib.dll
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Interop.WMPLauncher.dll
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.csproj.ResolveComReference.cache
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Form1.resources
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Ye\Desktop\Alarm Clock\Alarm Clock\obj\x86\Debug\Alarm Clock.csproj.GenerateResource.Cache
